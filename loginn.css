@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.form-control{
+    display: inline-block;
+    width: 100px;
+    
+    padding-left: 100px;
+    
+}
+.col-sm-2 col-form-label{
+    padding-left: 50px;
+}
+
+form{
+    width: 320px;
+    align-items: center;
+    height: 420px;
+    color: #fff;
+    background-color: rgba(0,0,0,0.5);
+    top: 50px;
+    left: 50px;
+    position: absolute;
+    transform:translate(-50%,50%);
+    box-sizing: border-box;
+
+}
